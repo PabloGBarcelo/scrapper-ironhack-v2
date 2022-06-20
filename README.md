@@ -1,5 +1,5 @@
 # scrapper-ironhack-v2
-New version to scrap Ironhack Course Website 
+New version (a bit hacky) to scrap Ironhack Course Website 
 
 Example of how to scrap Ironhack website - Only for student purposes
 
