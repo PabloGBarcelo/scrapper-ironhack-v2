@@ -3,9 +3,12 @@ New version to scrap Ironhack Course Website
 
 Example of how to scrap Ironhack website - Only for student purposes
 
-Obtain token from POST call at Ironhack's website after login (tip: use console of chrome, label Network and search "token") 
+Obtain token from POST call at Ironhack's website after login 
+(tip: use console of chrome, label Network and search "token") 
+
 Create your own temario.json getting url
-https://lms-api.ironhack.tech/YOURVERSION/courses/course-YOURVERSION:YOURCOURSE (im sure you will find the right way to get this JSON)
+https://lms-api.ironhack.tech/YOURVERSION/courses/course-YOURVERSION:YOURCOURSE 
+(im sure you will find the right way to get this JSON)
 
 Put your temario.json inside the root folder and call python3 app.py
 
